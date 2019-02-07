@@ -1,6 +1,6 @@
 {
-    "name": "phoenix/eloquent-meta",
-    "description": "Attach meta data to Eloquent models",
+    "name": "briteweb/eloquent-meta",
+    "description": "Fork of: Attach meta data to Eloquent models",
     "keywords": ["eloquent", "laravel", "meta"],
     "homepage": "https://github.com/phoenix-labs/eloquent-meta",
     "license": "MIT",
